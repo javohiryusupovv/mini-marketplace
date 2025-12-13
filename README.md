@@ -1,6 +1,6 @@
 # 🛒 Mini E-Commerce Project
 
-Bu loyiha Next.js yordamida yaratilgan mini marketplace bo'lib, mahsulotlar roʻyxati, savatcha (cart) funksiyasi va oddiy UI elementlarini o‘z ichiga oladi.
+Bu loyiha SPA qilib yaratilgan mini marketplace bo'lib, mahsulotlar roʻyxati, cart(savat) bo'limi va oddiy UI elementlarini o‘z ichiga oladi.
 
 ---
 
