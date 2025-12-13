@@ -1,6 +1,6 @@
 # 🛒 Mini E-Commerce Project
 
-Bu loyiha SPA qilib yaratilgan mini marketplace bo'lib, mahsulotlar roʻyxati, cart(savat) bo'limi va oddiy UI elementlarini o‘z ichiga oladi.
+Ushbu loyiha SPA (Single Page Application) asosida ishlab chiqilgan mini marketplace hisoblanadi. Ilova foydalanuvchilarga mahsulotlar bilan qulay ishlash imkonini beradi va sahifa qayta yuklanmasdan interaktiv tarzda faoliyat yuritadi.
 
 ---
 
